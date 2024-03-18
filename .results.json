@@ -5,15 +5,15 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2024-03-16T21:58:50.329Z",
-    "end": "2024-03-16T21:58:53.089Z",
-    "duration": 2760
+    "start": "2024-03-18T23:17:48.644Z",
+    "end": "2024-03-18T23:17:53.389Z",
+    "duration": 4745
   },
   "tests": [
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 6,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,21 +48,21 @@
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js excitedWelcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js excitedWelcomeMessage ends with an exclamation point",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains \"Welcome, \"",
       "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,7 +87,7 @@
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 6,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -122,21 +122,21 @@
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js excitedWelcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js excitedWelcomeMessage ends with an exclamation point",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains \"Welcome, \"",
       "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
